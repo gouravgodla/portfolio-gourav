@@ -66,6 +66,25 @@ export const PROJECTS: Project[] = [
     ],
     imageUrl: "/assets/home_cryptomarketplace.png",
   },
+ {
+  title: "TalkSphere — Real-time Language Exchange & Communication Platform",
+  description:
+    "TalkSphere is a feature-rich platform designed to facilitate real-time messaging, video calls, and language exchange in a secure and customizable environment.",
+  githubUrl: "https://github.com/gouravgodla/TalkSphere-video-call-chat.git",
+  liveUrl: "https://talksphere-video-call-chat.onrender.com",
+  stack: [
+    "React",
+    "Express.js",
+    "MongoDB",
+    "Tailwind CSS",
+    "Zustand",
+    "TanStack Query",
+    "JWT",
+    "Stream",
+    "Node.js",
+  ],
+  imageUrl: "/assets/home_page_talksphere.png",
+},
 ];
 
 export const SKILLS: SkillCategory[] = [
